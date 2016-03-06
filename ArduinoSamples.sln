@@ -21,7 +21,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Photoresistor", "Photoresis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemperatureSensor", "TemperatureSensor\TemperatureSensor.vcxproj", "{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SegmentDisplay", "SegmentDisplay\SegmentDisplay.vcxproj", "{1200A93F-8714-473F-BBCA-0194FD674976}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SegmentDigits", "SegmentDigits\SegmentDigits.vcxproj", "{C3CAF59A-2140-41FB-AE45-0DBC84F331C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiSegmentDigit", "..\MultiSegmentDigit\MultiSegmentDigit.vcxproj", "{924FF210-6AD5-4307-B116-421E7C80DE5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,12 +89,18 @@ Global
 		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Release|x64.ActiveCfg = Release|Win32
 		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Release|x86.ActiveCfg = Release|Win32
 		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Release|x86.Build.0 = Release|Win32
-		{1200A93F-8714-473F-BBCA-0194FD674976}.Debug|x64.ActiveCfg = Debug|Win32
-		{1200A93F-8714-473F-BBCA-0194FD674976}.Debug|x86.ActiveCfg = Debug|Win32
-		{1200A93F-8714-473F-BBCA-0194FD674976}.Debug|x86.Build.0 = Debug|Win32
-		{1200A93F-8714-473F-BBCA-0194FD674976}.Release|x64.ActiveCfg = Release|Win32
-		{1200A93F-8714-473F-BBCA-0194FD674976}.Release|x86.ActiveCfg = Release|Win32
-		{1200A93F-8714-473F-BBCA-0194FD674976}.Release|x86.Build.0 = Release|Win32
+		{C3CAF59A-2140-41FB-AE45-0DBC84F331C3}.Debug|x64.ActiveCfg = Debug|Win32
+		{C3CAF59A-2140-41FB-AE45-0DBC84F331C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3CAF59A-2140-41FB-AE45-0DBC84F331C3}.Debug|x86.Build.0 = Debug|Win32
+		{C3CAF59A-2140-41FB-AE45-0DBC84F331C3}.Release|x64.ActiveCfg = Release|Win32
+		{C3CAF59A-2140-41FB-AE45-0DBC84F331C3}.Release|x86.ActiveCfg = Release|Win32
+		{C3CAF59A-2140-41FB-AE45-0DBC84F331C3}.Release|x86.Build.0 = Release|Win32
+		{924FF210-6AD5-4307-B116-421E7C80DE5D}.Debug|x64.ActiveCfg = Debug|Win32
+		{924FF210-6AD5-4307-B116-421E7C80DE5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{924FF210-6AD5-4307-B116-421E7C80DE5D}.Debug|x86.Build.0 = Debug|Win32
+		{924FF210-6AD5-4307-B116-421E7C80DE5D}.Release|x64.ActiveCfg = Release|Win32
+		{924FF210-6AD5-4307-B116-421E7C80DE5D}.Release|x86.ActiveCfg = Release|Win32
+		{924FF210-6AD5-4307-B116-421E7C80DE5D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
