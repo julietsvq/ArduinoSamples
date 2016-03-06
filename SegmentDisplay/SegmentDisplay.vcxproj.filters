@@ -15,14 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="FlashingLed.ino" />
+    <None Include="SegmentDisplay.ino" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="__vm\.FlashingLed.vsarduino.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="__vm\.ArduinoSamples.vsarduino.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
+ 
 </Project>

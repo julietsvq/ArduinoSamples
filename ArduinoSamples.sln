@@ -19,6 +19,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Potentiometer", "Potentiome
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Photoresistor", "Photoresistor\Photoresistor.vcxproj", "{A577DC79-CDCC-4F83-923B-4DF7CC5D762D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemperatureSensor", "TemperatureSensor\TemperatureSensor.vcxproj", "{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SegmentDisplay", "SegmentDisplay\SegmentDisplay.vcxproj", "{1200A93F-8714-473F-BBCA-0194FD674976}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -77,6 +81,18 @@ Global
 		{A577DC79-CDCC-4F83-923B-4DF7CC5D762D}.Release|x64.ActiveCfg = Release|Win32
 		{A577DC79-CDCC-4F83-923B-4DF7CC5D762D}.Release|x86.ActiveCfg = Release|Win32
 		{A577DC79-CDCC-4F83-923B-4DF7CC5D762D}.Release|x86.Build.0 = Release|Win32
+		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Debug|x64.ActiveCfg = Debug|Win32
+		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Debug|x86.Build.0 = Debug|Win32
+		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Release|x64.ActiveCfg = Release|Win32
+		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Release|x86.ActiveCfg = Release|Win32
+		{C9B27024-D7E8-47DE-91C3-BBFA7CD8D4B9}.Release|x86.Build.0 = Release|Win32
+		{1200A93F-8714-473F-BBCA-0194FD674976}.Debug|x64.ActiveCfg = Debug|Win32
+		{1200A93F-8714-473F-BBCA-0194FD674976}.Debug|x86.ActiveCfg = Debug|Win32
+		{1200A93F-8714-473F-BBCA-0194FD674976}.Debug|x86.Build.0 = Debug|Win32
+		{1200A93F-8714-473F-BBCA-0194FD674976}.Release|x64.ActiveCfg = Release|Win32
+		{1200A93F-8714-473F-BBCA-0194FD674976}.Release|x86.ActiveCfg = Release|Win32
+		{1200A93F-8714-473F-BBCA-0194FD674976}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
